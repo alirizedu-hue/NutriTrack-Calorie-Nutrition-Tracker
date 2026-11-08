@@ -1,0 +1,10 @@
+{
+  "name": "NutriTrack – Calorie & Nutrition Tracker",
+  "description": "Smart nutrition and food tracking application with balanced meal logging, hydration tracking, and interactive nutrition insights.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
